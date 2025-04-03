@@ -15,3 +15,23 @@ This dataset contains the details of the Athletes, Coaches, Teams participating 
 
 countries represented, discipline, gender of competitors, name of the coaches.
 
+athletes file consists of
+
+![image](https://github.com/user-attachments/assets/a647a586-07e7-4e8f-a5dc-7c41b43b3213)
+
+Coaches file consists of
+
+![image](https://github.com/user-attachments/assets/fd411cea-94f8-4449-9b50-32684c811960)
+
+EntrieGender file consist of 
+
+![image](https://github.com/user-attachments/assets/7dba6aa6-992a-4eb2-a534-2308497fd6de)
+
+Medals file consist of 
+
+![image](https://github.com/user-attachments/assets/5430d58e-f74e-499d-a7ef-f5f646a096ed)
+
+Teams file consist of 
+
+![image](https://github.com/user-attachments/assets/8805559b-0abf-4d7e-9352-81ad0c3292c3)
+
