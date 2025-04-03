@@ -35,3 +35,19 @@ Teams file consist of
 
 ![image](https://github.com/user-attachments/assets/8805559b-0abf-4d7e-9352-81ad0c3292c3)
 
+## Steps
+
+click on Storage Account on Azure platform
+
+![image](https://github.com/user-attachments/assets/0ad07ea3-a636-4518-a5bb-fb12ff529bbc)
+
+Azure storage account contains all of your Azure Storage data objects: blobs, files, queues, and tables. The storage account provides a unique namespace 
+
+for your Azure Storage data that's accessible from anywhere in the world over HTTP or HTTPS. Data in your storage account is durable and highly available, 
+
+secure, and massively scalable.
+
+on Storage Accounts, select Create storage account
+
+![image](https://github.com/user-attachments/assets/c66b9674-8a47-490a-8c99-1e674daa977d)
+
