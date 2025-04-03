@@ -61,11 +61,13 @@ we name it with tokyo-olympic, then OK
 
 ![image](https://github.com/user-attachments/assets/5c7aef72-c863-47f9-903f-81f09ae2404e)
 
-type on Storage account name with "tokyoolympicdata"
+type on Storage account name with with a name that has not been taken by someone else 
+
+i type "inilatihanazure"
 
 and Region, is the place where you live i prefer (Asia Pacific) Southeast Asia
 
-![image](https://github.com/user-attachments/assets/895be21f-9ff7-4742-a7eb-0b6138b7562a)
+![image](https://github.com/user-attachments/assets/7907d750-d559-4272-bb02-7a0fefe5a2d2)
 
 for Performace, select Standard, and Redundancy, select Geo-redundant storage (GRS)
 
@@ -99,6 +101,20 @@ on encryption , just click Next
 
 ![image](https://github.com/user-attachments/assets/c66dafee-4255-45f9-8c10-440d2cec6649)
 
+finally the result after review is 
 
+![image](https://github.com/user-attachments/assets/c4980a4c-bfeb-42df-aafd-388ce5f03cb8)
+
+click Create
+
+after a vew minute process, we got an overview
+
+![image](https://github.com/user-attachments/assets/aae9ecee-d047-437b-a29f-415470210705)
+
+click on Go to resource
+
+then we got overall Overview
+
+![image](https://github.com/user-attachments/assets/c0875f7a-7f7f-4698-ac61-1ebd010920e4)
 
 
