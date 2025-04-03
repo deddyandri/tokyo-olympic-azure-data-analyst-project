@@ -53,4 +53,52 @@ on Storage Accounts, select Create storage account
 
 ![image](https://github.com/user-attachments/assets/c66b9674-8a47-490a-8c99-1e674daa977d)
 
+on Create a storage account, Create New Resource Group, by clicking "Create New
+
+![image](https://github.com/user-attachments/assets/3a63fd15-371e-4f78-9a88-88ec1d094601)
+
+we name it with tokyo-olympic, then OK
+
+![image](https://github.com/user-attachments/assets/5c7aef72-c863-47f9-903f-81f09ae2404e)
+
+type on Storage account name with "tokyoolympicdata"
+
+and Region, is the place where you live i prefer (Asia Pacific) Southeast Asia
+
+![image](https://github.com/user-attachments/assets/895be21f-9ff7-4742-a7eb-0b6138b7562a)
+
+for Performace, select Standard, and Redundancy, select Geo-redundant storage (GRS)
+
+and make sure we check Make read access to data avalilable in the event of regional unavalability
+
+![image](https://github.com/user-attachments/assets/e0907264-59b3-4e69-8cb1-6c0ba18dbe92)
+
+click on Next
+
+on security
+
+check all 
+
+![image](https://github.com/user-attachments/assets/0dfa025d-e4bc-4582-8fdf-2d937cad4e62)
+
+on Access protocol, just ignore the boxes
+
+![image](https://github.com/user-attachments/assets/b1b800a1-e832-4405-aaf2-290c50d54a56)
+
+click next
+
+on Network connectivity, select Enable Public access from all network
+
+![image](https://github.com/user-attachments/assets/b9114b9f-66b8-47b6-b543-a9653affd7c0)
+
+clck next
+
+on Recovery, just ignore it, then Next
+
+on encryption , just click Next
+
+![image](https://github.com/user-attachments/assets/c66dafee-4255-45f9-8c10-440d2cec6649)
+
+
+
 
