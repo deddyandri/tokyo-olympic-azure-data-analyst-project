@@ -6,5 +6,7 @@ List of content
 
 [1. About Datasets](https://github.com/deddyandri/tokyo-olympic-azure-data-analyst-project/wiki/About-Datasets)
 
-## Steps
+[2. Create Storage Account](https://github.com/deddyandri/tokyo-olympic-azure-data-analyst-project/wiki/2.-Create-Storage-Account)
+
+
 
