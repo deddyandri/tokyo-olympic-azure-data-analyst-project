@@ -10,5 +10,7 @@ List of content
 
 [3. Container](https://github.com/deddyandri/tokyo-olympic-azure-data-analyst-project/wiki/3.-Container)
 
+[4.-Data-ingestion-from-Github-into-Azure-datalake](https://github.com/deddyandri/tokyo-olympic-azure-data-analyst-project/wiki/4.-Data-ingestion-from-Github-into-Azure-datalake)
+
 
 
