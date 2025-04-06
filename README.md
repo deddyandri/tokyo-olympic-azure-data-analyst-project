@@ -2,6 +2,8 @@
 
 analyze Olympic data using various tools and technologies, including Azure Data Factory, Data Lake Gen 2, Synapse Analytics, and Azure Databricks.
 
+## DIAGRAM PROCESS AZURE DATALAKE
+
 ![image](https://github.com/user-attachments/assets/a48da2bf-b7a7-45ee-8e23-b0b12652ae9b)
 
 List of content
