@@ -19,3 +19,5 @@ List of content
 [5. Azure-databricks](https://github.com/deddyandri/tokyo-olympic-azure-data-analyst-project/wiki/5.-Azure-databricks)
 
 [6. Azure Synapse Analytics](https://github.com/deddyandri/tokyo-olympic-azure-data-analyst-project/wiki/6.-Azure-Synapse-Analytic)
+
+[7. SQL Analysis and Visualization](https://github.com/deddyandri/tokyo-olympic-azure-data-analyst-project/wiki/7.-SQL-Analysis-and-Visualization)
